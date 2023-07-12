@@ -33,6 +33,7 @@ if __name__ == '__main__':
     tree = BinaryTree()
     root = tree.construct_tree(node)
     tree.print_preorder(root)
+    
 
     # print(root.data)
 
